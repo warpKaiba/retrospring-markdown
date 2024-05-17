@@ -12,4 +12,4 @@ This is the answer text.
 ----
 
 
-You will need a userscript extension such as Tampermonkey. Install by opening the raw file, or click [https://github.com/warpKaiba/retrospring-markdown/raw/main/retrospring-markdown.user.js](here).
+You will need a userscript extension such as Tampermonkey. Install by opening the raw file, or click [here](https://github.com/warpKaiba/retrospring-markdown/raw/main/retrospring-markdown.user.js).
